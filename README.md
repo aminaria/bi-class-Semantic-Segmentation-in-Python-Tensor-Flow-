@@ -17,5 +17,7 @@ in comparison to the original 100 layer Tiramisu and is specifically fabricated 
 
 6- In the case of grid search, chechpoints corresponding to each of the explored models are saved in the checkpoints folder.
 
+7- Pixelcounter.py is a code for counting crack pixels and estimation of crack length in the specific case of segmented images of a cracked area.
 
-To use this modied package, the user may start with ReadME file of the original package (https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) and then continue with this current Readme file.
+
+To use this modified package, the user may start with ReadME file of the original package (https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) and then continue with this ReadME file.
